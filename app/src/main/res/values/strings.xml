@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MbuhKAI</string>
+    <string name="button_not_register">Daftar Sekarang</string>
+    <string name="after_register">Login Sekarang</string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+</resources>

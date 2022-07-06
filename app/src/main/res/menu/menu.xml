@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tentang"
+        android:title="Tentang"
+        android:icon="@drawable/ic_help"/>
+
+    <item android:id="@+id/help"
+        android:title="Petunjuk"
+        android:icon="@drawable/ic_about"/>
+</menu>
